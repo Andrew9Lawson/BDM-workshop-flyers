@@ -1,0 +1,49 @@
+BAYESIAN SPATIAL AND SPATIO-TEMPORAL HEALTH MODELING with R
+
+INSTATS supported seminar/workshop
+
+Announcing an opportunity to gain insight into the application
+of Bayesian Hierarchical modeling with geo-referenced health data.
+
+
+R is commonly use now for advanced Biostatistical applications. Bayesian spatial and spatio-temporal modeling of health data is an important topic which can be addressed using tools in R.  This course is designed for those who want to cover mapping methods, and the use of a variety of software and variants in application to small area health data.  The course will include theoretical input, covering selected  Bayesian spatial models, but also practical elements and participants will be involved in hands-on in the use of R, R2OpenBUGS, Nimble, and CARBayes in disease mapping applications. Examples will focus on aggregate spatial count data  as well as simple space-time modelling. Examples will focus on county level respiratory cancer incidence (spatial) and variants and in US states.  The course would be suitable for those with some R experience, but limited experience of spatial modeling in health applications. A recent text on this topic is
+
+Lawson, A. B. (2023) Using R for Bayesian Spatial and Spatio-temporal Health Modeling, CRC Press  (paperback) has appeared and forms the basis of this course delivery. An ebook is also available at 
+https://www.routledge.com/Using-R-for-Bayesian-Spatial-and-Spatio-Temporal-Health-Modeling/Lawson/p/book/9780367760670 
+
+Presenter:
+Andrew B Lawson 
+Professor of Biostatistics in the Division of Biostatistics and Bioinformatics, Department of Public Health Sciences, College of Medicine, MUSC and is an MUSC Distinguished Professor Emeritus and ASA Fellow. His PhD was in Spatial Statistics from the University of St. Andrews, UK.
+He has over 200 journal papers on the subject of spatial epidemiology, spatial statistics and related areas. In addition to a number of book chapters, he is the author of 10 books in areas related to spatial epidemiology and health surveillance. The most recent of these is Lawson, A.B. et al (eds) (2016) Handbook of Spatial Epidemiology. CRC Press, New York, and in 2018 a 3rd edition of Bayesian Disease Mapping; hierarchical modeling in spatial epidemiology  CRC Press. In 2021. a new volume entitled Using R Bayesian Spatial and  Spatio-temporal Health modeling CRC Press appeared. He has acted as an advisor in disease mapping and risk assessment for the World Health Organization (WHO) and is founding editor of the Elsevier journal Spatial and Spatio-temporal Epidemiology.  Dr Lawson has delivered many short courses in different locations over the last 20 years on Bayesian Disease Mapping with OpenBUGS, INLA, and Nimble, and more general spatial epidemiology topics.
+Web site: http://people.musc.edu/~abl6/ 
+
+
+Outline
+
+The seminar/workshop will be delivered via Zoom and will extend over four morning sessions on January 7th - to 10th 2025, 9am EST - 12 noon EST  inclusive:
+
+Day 1: 
+Session 1 and 2
+Introduction to Bayesian disease Mapping;
+Bayesian Computation
+Day 2
+Session 3 and 4
+R  graphics and simple Bayesian Hierarchical Models (BHMs)
+Demo of models on R2OpenBUGS
+Day 3 
+Session 5 and 6
+Using Nimble for BHMs
+Using CARBayes and INLA for BHMs
+Day 4 
+Session 7 and 8 
+Space-time modeling in Nimble & Clustering
+Space-time Mechanistic Modeling with Nimble 
+Q&A
+
+Who should attend:   
+The seminar/workshop is suitable for anyone who wants to gain insight into the analysis of geo-referenced health data using Bayesian methods. We work with R and so some R experience is helpful but not essential and some basic background in regression and statistical testing is also helpful. Previous workshops on this topic have been attended by public health professionals, and post gradate students and faculty in Epidemiology, Geography, Statistics and veterinary science. 
+
+To register go to the INSTATS website (www.instats.org) and follow instructions for registration. The basic Fee for the course is 518 USD with reductions for students and members. The link to the seminar page is https://instats.org/seminar/bayesian-spatial-and-spatio-temporal-mod2 
+
+
+
